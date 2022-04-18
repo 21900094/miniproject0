@@ -10,7 +10,7 @@ int main(void){
     int now=0;
     now=load(p);
     int result;
-    printf("commit number 2\n");
+    printf("commit number 3\n");
     while (1){
         menu = selectMenu();
         if (menu == 0) {
